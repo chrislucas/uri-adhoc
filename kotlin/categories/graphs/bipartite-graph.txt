@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/Bipartite_graph
+
+https://study.com/academy/lesson/bipartite-graph-definition-applications-examples.html
+
+https://www.geeksforgeeks.org/bipartite-graph/
+
+http://mathworld.wolfram.com/BipartiteGraph.html
+
+http://mathworld.wolfram.com/PolyaEnumerationTheorem.html

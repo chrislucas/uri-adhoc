@@ -1,0 +1,40 @@
+Chromatic polynomial
+https://en.wikipedia.org/wiki/Chromatic_polynomial
+http://mathworld.wolfram.com/ChromaticPolynomial.html
+
+
+Trabalho parece ter coisas interenssantes
+http://www.locus.ufv.br/bitstream/handle/123456789/11609/texto%20completo.pdf?sequence=1
+
+
+Chromatic Numbers
+O menor número K de cores necessário para colorir os vertices de um grafo
+tal que nenhum vertice adjacente tenha a mesma cor. O menor número K
+nos da o valor de k-coloring
+
+http://mathworld.wolfram.com/ChromaticNumber.html
+https://brilliant.org/wiki/graph-coloring-and-chromatic-numbers/
+
+
+Coloracao de vertices de um grafo e Numero cromatico (Graph coloring and Chromatic number):
+
+A coloracao dos vertices de um grafo  e uma tarefa de atribuicao
+de colores as vertices tal que nenhum vertice adjacente tenha a mesma cor.
+
+Por exemplo: Imagine um grafo conexo de 6 vertices. O numero minimo de cores
+utilizados para colorir cada vertice tal que nenhum vertice adjacente tenha a mesma
+cor é 3.
+
+O número cromático de um grafo G é o número mínimo de cores utilizados para
+realizar a tarefa de coloração dos vertices de G.
+
+
+
+K-Colorable
+Um grafo G é chamado k-colorable se existe um coloracao de grafo em G com k cores.
+
+Se um grafo G é k-colorable entao ele também n-colorable para n > k, ou seja
+se G for 3-colorable ele é 4-colorable ou (n>3)-colorable.
+
+
+https://brilliant.org/wiki/graph-theory/
