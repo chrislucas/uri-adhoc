@@ -1,0 +1,25 @@
+search k-coloring counts algorithm
+https://en.wikipedia.org/wiki/Graph_coloring
+
+
+vertex coloring algorithm
+http://mathworld.wolfram.com/VertexColoring.html
+
+
+https://www.geeksforgeeks.org/graph-coloring-set-2-greedy-algorithm/
+
+Bipartite Graph
+
+http://mathworld.wolfram.com/BipartiteGraph.html
+https://www.geeksforgeeks.org/check-if-a-given-graph-is-bipartite-using-dfs/
+
+https://en.wikipedia.org/wiki/Bipartite_graph
+
+
+Four color theorem
+https://brilliant.org/wiki/four-color-theorem/
+
+Chromatic Number
+O menor número K de cores necessário para colorir os vertices de um grafo
+tal que nenhum vertice adjacente tenha a mesma cor. O menor número K
+nos da o valor de k-coloring
