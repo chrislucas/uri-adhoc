@@ -1,0 +1,5 @@
+package solution
+
+object KMP {
+
+}
